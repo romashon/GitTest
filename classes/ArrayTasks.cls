@@ -26,6 +26,7 @@ public with sharing class ArrayTasks {
  *    2 => [ 1, 3 ]
  *    5 => [ 1, 3, 5, 7, 9 ]
  */
+ public static Method a () {}
     public static List<Integer> generateOdds(Integer len) {
         List<Integer> result = new List<Integer>();
         Integer j = 1;
